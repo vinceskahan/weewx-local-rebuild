@@ -151,7 +151,7 @@ service weewx restart
 #
 #----------------------------------------------------
 #
-# other setup to do to complate the job:
+# other setup to do to complete the job:
 #    regenerate /root/.ssh tree        (use the MacbookAir as a starting point)
 #    set up root crontab and /root/bin (see dropbox for the files)
 #    substitute the correct keys and passwords in above of course, as needed
